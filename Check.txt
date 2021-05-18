@@ -1,1 +1,2 @@
 checking why its not working
+dont know why not adding to git
